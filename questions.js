@@ -275,16 +275,6 @@ const questions = [
         },
 
         {
-            question: "Who painted the 'Mona Lisa'?",
-            answers: [
-                { text: "Leonardo da Vinci", correct: true },
-                { text: "Vincent van Gogh", correct: false },
-                { text: "Pablo Picasso", correct: false },
-                { text: "Claude Monet", correct: false },
-            ]
-        },
-
-        {
             question: "Which planet is known as the 'Red Planet'?",
             answers: [
                 { text: "Mars", correct: true },
@@ -335,16 +325,6 @@ const questions = [
         },
 
         {
-            question: "Who painted 'The Starry Night'?",
-            answers: [
-                { text: "Vincent van Gogh", correct: true },
-                { text: "Pablo Picasso", correct: false },
-                { text: "Leonardo da Vinci", correct: false },
-                { text: "Claude Monet", correct: false },
-            ]
-        },
-
-        {
             question: "What is the chemical symbol for gold?",
             answers: [
                 { text: "Au", correct: true },
@@ -388,7 +368,7 @@ const questions = [
             question: "What is the chemical symbol for oxygen?",
             answers: [
                 { text: "O2", correct: false },
-                { text: "O", correct: false },
+                { text: "OX", correct: false },
                 { text: "O3", correct: false },
                 { text: "O", correct: true },
             ]
